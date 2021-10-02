@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: rgb(170, 228, 243);
+    background-color: #111;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -22,7 +22,7 @@ body{
     font-size: 4rem;
     padding-top: 6rem;
     border-bottom: .1rem solid #fff4;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 
 .heading span{
@@ -35,7 +35,7 @@ body{
     font-size: 4rem;
     padding-top: 6rem;
     border-bottom: .1rem solid #fff4;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 
 .title span{
@@ -48,7 +48,7 @@ body{
     font-size: 4rem;
     padding-top: 5rem;
     border-bottom: .1rem solid #fff4;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 .head span{
     color: yellow;
@@ -59,7 +59,7 @@ body{
     font-size: 4rem;
     padding-top: 5rem;
     border-bottom: .1rem solid #fff4;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 .pro span{
     color: yellow;
@@ -89,12 +89,12 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 
 header .user .jb{
     font-size:1rem;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 
 header .nv{
@@ -110,7 +110,7 @@ header .nv ul li a{
     padding: 1rem;
     margin: 1.5rem 0;
     background: #333;
-    color: rgb(0, 0, 0);
+    color: #fff;
     font-size: 2rem;
     border-radius: 5rem;
     text-decoration: none;  
@@ -141,7 +141,7 @@ header .nv ul li a:hover{
 }
 
 .Details .Row .det h3 span{
-    color: rgb(0, 0, 0);
+    color: #eee;
     padding: 0. 5rem;
 }
 table,th,td{
@@ -149,11 +149,11 @@ table,th,td{
     border-collapse: collapse;
 }
 td{
-    color: rgb(0, 0, 0);
+    color: white;
     padding: 1rem;
 }
 th{
-    color: rgb(0, 0, 0);
+    color: white;
     padding: 1rem;
 }
 table{
@@ -162,11 +162,11 @@ table{
     font-size: 2rem;
     padding: 1rem;
     border-bottom: .1rem solid #fff4;
-    color: rgb(0, 0, 0);
+    color: #fff;
 }
 #lis li{
     margin: 0 9rem;
-    color: rgb(0, 0, 0);
+    color: white;
     font-size: medium;
     padding: .5rem 1rem;
 }
@@ -186,12 +186,12 @@ table{
 
 .Project .Row .det h3{
     font-size: 2rem;
-    color: rgb(47, 0, 255);
+    color: yellow;
     padding: 1rem 0;
     font-weight: normal;
 }
 
 .Project .Row .det h3 span{
-    color: rgb(0, 0, 0);
+    color: #eee;
     padding: 0. 5rem;
 }
